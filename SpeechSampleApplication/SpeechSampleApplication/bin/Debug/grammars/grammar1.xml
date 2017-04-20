@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<grammar xml:lang="en-US" root="bookFlight"
+tag-format="semantics/1.0" version="1.0"
+xmlns="http://www.w3.org/2001/06/grammar">
+
+  <rule id="bookFlight">
+    <example>I want to fly from Chicago to Boston</example>
+    <item>
+      I want to fly from
+    </item>
+    <ruleref uri="#cities" />
+    <tag> out.origin = rules.cities; </tag>
+    <item> to </item>
+    <ruleref uri="#cities" />
+    <tag> out.destination = rules.cities; </tag>
+  </rule>
+
+  <rule id="cities">
+    <one-of>
+      <item>
+        Chicago <tag> out="ORD" </tag>
+      </item>
+      <item>
+        Boston <tag> out="BOS" </tag>
+      </item>
+      <item>
+        Miami <tag> out="MIA" </tag>
+      </item>
+      <item>
+        Boston <tag> out="BOS" </tag>
+      </item>
+    </one-of>
+  </rule>
+
+</grammar>

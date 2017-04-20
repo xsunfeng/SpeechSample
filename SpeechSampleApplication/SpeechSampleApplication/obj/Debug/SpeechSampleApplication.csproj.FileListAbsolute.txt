@@ -1,0 +1,8 @@
+C:\Users\fzs122\Documents\GitHub\SpeechSample\SpeechSampleApplication\SpeechSampleApplication\bin\Debug\SpeechSampleApplication.exe.config
+C:\Users\fzs122\Documents\GitHub\SpeechSample\SpeechSampleApplication\SpeechSampleApplication\bin\Debug\SpeechSampleApplication.exe
+C:\Users\fzs122\Documents\GitHub\SpeechSample\SpeechSampleApplication\SpeechSampleApplication\bin\Debug\SpeechSampleApplication.pdb
+C:\Users\fzs122\Documents\GitHub\SpeechSample\SpeechSampleApplication\SpeechSampleApplication\bin\Debug\Microsoft.Speech.dll
+C:\Users\fzs122\Documents\GitHub\SpeechSample\SpeechSampleApplication\SpeechSampleApplication\obj\Debug\Interop.SpeechLib.dll
+C:\Users\fzs122\Documents\GitHub\SpeechSample\SpeechSampleApplication\SpeechSampleApplication\obj\Debug\SpeechSampleApplication.csproj.ResolveComReference.cache
+C:\Users\fzs122\Documents\GitHub\SpeechSample\SpeechSampleApplication\SpeechSampleApplication\obj\Debug\SpeechSampleApplication.exe
+C:\Users\fzs122\Documents\GitHub\SpeechSample\SpeechSampleApplication\SpeechSampleApplication\obj\Debug\SpeechSampleApplication.pdb
